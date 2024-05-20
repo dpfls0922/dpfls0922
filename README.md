@@ -6,21 +6,21 @@
 >📫 dpfls0922@sookmyung.ac.kr
 
 ## Experience
--2024
+2024
 - Ict Internship (2024.03 ~ 2024.06)
 - LikeLion at Sookmyung Women's University 11th Executive (2024.01 ~ 2024.12)
 
 
--2023
+2023
 - 42Seoul Cadet (2023.01 ~ 2023.12)
 - LikeLion at Sookmyung Women's University 11th (2023.03 ~ 2023.12)
 
 
--2022
+2022
 - University of America Exchange Student Program (2022.08 ~ 2022.12)
 
 
--2020~2021
+2020~2021
 - Sookmyung Women's University Information Security Club (2021 ~ 2022)
 
 
