@@ -3,7 +3,7 @@
 
 >Hi there👋 I'm Yerin Lee.
 >I'm majoring in Computer Science at Sookmyung Women's University. </br>
->Interested in Backend, using Django or Spring Boot for backend. </br>
+>Interested in Backend, using Django or Spring Boot. </br>
 >📩 dpfls0922@sookmyung.ac.kr
 
 ## Experience
