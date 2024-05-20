@@ -8,11 +8,12 @@
 ## Experience
 2024
 - Ict Internship (2024.03 ~ 2024.06)
+- 42 Seoul Cadet (2024.01 ~ 2024.12)
 - LikeLion at Sookmyung Women's University 11th Executive (2024.01 ~ 2024.12)
 
 
 2023
-- 42Seoul Cadet (2023.01 ~ 2023.12)
+- 42 Seoul Cadet (2023.01 ~ 2023.12)
 - LikeLion at Sookmyung Women's University 11th (2023.03 ~ 2023.12)
 
 
