@@ -1,9 +1,10 @@
 ## 이예린 | Yerin Lee
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpfls0922%2F&count_bg=%23F5D661&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+>Hi there👋 I'm Yerin Lee.
 >I'm majoring in Computer Science at Sookmyung Women's University. </br>
->I'm interested in Backend, uses Django or Spring Boot for backend. </br>
->📫 dpfls0922@sookmyung.ac.kr
+>Interested in Backend, using Django or Spring Boot for backend. </br>
+>📩 dpfls0922@sookmyung.ac.kr
 
 ## Experience
 2024
@@ -26,9 +27,10 @@
 
 
 ## Tech Skill
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -41,5 +43,4 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpfls0922)](https://github.com/dpfls0922/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpfls0922)](https://github.com//github-readme-stats)
