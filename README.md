@@ -21,8 +21,8 @@
 |**프로젝트명**|**기술 스택**|**구현한 기능** |
 |----|----|----|
 |우산친구|Python, Django, Firebase, SQLite3|• QR 코드 기반 우산 대여 및 반납<br/> • 3일 연장, 이메일 인증<br/> • 푸시 알림<br/> • 지도 기능<br/> • 기상청 API 연동, 캐싱처리로 API 호출 속도 45% 향상 <br/> • uWSGI + NGINX + AWS EC2 배포|
-|자국의 통화로 환전송금이 가능한 쇼핑몰|Java, Spring Boot, MySQL,<br/> Redis, React, JSX |• 회원가입/로그인, 인증 처리<br/> • 회원/상품 관리 API<br/> • 외부 환율 조회 및 캐싱<br/> • 통화 변환<br/> • 해외송금 API<br/> • 프론트/백엔드 연동|
 |KISTI 보안 모니터링 시스템 유지 보수|전자정부프레임워크, Elasticsearch, <br/>Apache Kafka, Apache Storm,<br/> JSP, JQuery, JS, HTML, CSS, Mongodb, Mariadb |• Elasticsearch 버전 업그레이드<br/> • 주식검색창을 활용한 복합조건 기능<br/> • 자동 새로고침 기능<br/> • 검색 필터 저장/불러오기/공유하기 <br/> • 사용자 편의 시각적 기능 추가|
+|자국의 통화로 환전송금이 가능한 쇼핑몰|Java, Spring Boot, MySQL,<br/> Redis, React, JSX |• 회원가입/로그인, 인증 처리<br/> • 회원/상품 관리 API<br/> • 외부 환율 조회 및 캐싱<br/> • 통화 변환<br/> • 해외송금 API<br/> • 프론트/백엔드 연동|
 |커핑 모임 매칭 안드로이드 앱|Python, Django, SQLite3|• 모임 검색/정렬<br/> • 카테고리별 필터링<br/> • 찜하기/취소 <br/> • 프로그램 신청/취소<br/> • AWS EC2 배포|
 |bash shell 기반의 mini shell|C, VScode, lldb|• 사용자 입력 파싱<br/> • fork()를 통해 멀티 프로세스 환경을 구현하여 여러 명령어 병렬 처리<br/> • 환경변수 관리<br/> • 파이프 명령어 구현<br/> • heredoc 처리<br/> • 메모리 누수 디버깅|
 |OpenGL 2D/3D 게임 구현|C, VScode| • raycasting 알고리즘으로 3D 구현<br/> • 맵 파싱<br/> • dfs 알고리즘을 활용한 경로 유효성 확인<br/> • 키 훅 이벤트 처리|
@@ -42,19 +42,19 @@
 <br/>
 
 ### 🚀 기술 스택
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/>
+![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+<br/>
+![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
