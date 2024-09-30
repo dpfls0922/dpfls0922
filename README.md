@@ -24,8 +24,9 @@
 |KISTI 보안 모니터링 시스템 유지 보수|전자정부프레임워크, Elasticsearch, <br/>Apache Kafka, Apache Storm,<br/> JSP, JQuery, JS, HTML, CSS, Mongodb, Mariadb |• Elasticsearch 버전 업그레이드<br/> • 주식검색창을 활용해 and, or로 조합된 복합조건 처리<br/> • 자동 새로고침 기능<br/> • 검색 필터 저장/불러오기/공유하기 <br/> • 사용자 편의 시각적 기능 추가|
 |자국의 통화로 환전송금이 가능한 쇼핑몰|Java, Spring Boot, MySQL,<br/> Redis, React, JSX |• 회원가입/로그인, 인증 처리<br/> • 회원/상품 관리 API<br/> • 외부 환율 조회 및 캐싱<br/> • 통화 변환<br/> • 해외송금 API<br/> • 프론트/백엔드 연동|
 |커핑 모임 매칭 안드로이드 앱|Python, Django, SQLite3|• 모임 검색/정렬<br/> • 카테고리별 필터링<br/> • 찜하기/취소 <br/> • 프로그램 신청/취소<br/> • AWS EC2 배포|
-|bash shell 기반의 mini shell|C, VScode, lldb|• 사용자 입력 파싱<br/> • fork()를 통해 멀티 프로세스 환경을 구현하여 여러 명령어 병렬 처리<br/> • 환경변수 관리<br/> • 파이프 명령어 구현<br/> • heredoc 처리<br/> • 메모리 누수 디버깅|
-|OpenGL 2D/3D 게임 구현|C, VScode| • raycasting 알고리즘으로 3D 구현<br/> • 맵 파싱<br/> • dfs 알고리즘을 활용한 경로 유효성 확인<br/> • 키 훅 이벤트 처리|
+|bash shell 기반의 mini shell|C, VScode, fsanitize, lldb|• 사용자 입력 파싱<br/> • fork()를 통해 멀티 프로세스 환경을 구현하여 여러 명령어 병렬 처리<br/> • 환경변수 관리<br/> • 파이프 명령어 구현<br/> • heredoc 처리<br/> • 메모리 누수 디버깅|
+|식사하는 철학자의 교착상태 해결|C, VScode, fsanitize, lldb|• 공유 자원과 비공유 자원 구분<br/> • 뮤텍스를 이용해 쓰레드의 데이터 레이스 방지<br/> • 짝수, 홀수를 기준으로 순서를 정해, 선점하지 않고 자원 사용 <br/>|
+|OpenGL 2D/3D 게임 구현|C, VScode, fsanitize, lldb| • raycasting 알고리즘으로 3D 구현<br/> • 맵 파싱<br/> • dfs 알고리즘을 활용한 경로 유효성 확인<br/> • 키 훅 이벤트 처리|
 
 <br/>
 
