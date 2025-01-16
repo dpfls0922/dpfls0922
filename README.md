@@ -4,13 +4,9 @@
 백엔드 개발에 관심이 있으며, Django와 Spring Boot를 주로 사용합니다. <br/>
 📩 dpfls0922@sookmyung.ac.kr
 
-<br/>
-
 ### 🔍 경력
 - 2024.03 ~ 2024.08 클래스액트 개발팀 백엔드 파트
 - 2024.09 ~ 2024.11 셀파트너 서포터즈 백엔드 파트
-
-<br/>
 
 ### 💼 교육이수
 | **교육명**|**교육기간**|**교육기관**|
@@ -22,16 +18,9 @@
 |멋쟁이사자처럼| 2023.01~2023.12|멋쟁이사자처럼|
 |SISS 정보보안학회|2020.03~2022.02|숙명여자대학교 학회|
 
-<br/>
-
 ### ✏️ 자격증
-- **SQLD (SQL 개발자)**
-  - 취득 날짜: 2024.06.21
-- **TOPCIT (소프트웨어 역량검정)**
-  - 점수: Level 3
-  - 발행 날짜: 2024.06.17
-
-<br/>
+- 2024.06.21 SQLD (SQL 개발자)
+- 2024.06.17 TOPCIT (소프트웨어 역량검정)
 
 ### 🚀 기술 스택
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -50,5 +39,3 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpfls0922&hide=contribs,prs&show_icons=true&theme=graywhite)
