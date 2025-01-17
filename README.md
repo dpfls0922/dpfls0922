@@ -21,6 +21,7 @@
 ### ✏️ 자격증
 - 2024.06.21 SQLD (SQL 개발자)
 - 2024.06.17 TOPCIT (소프트웨어 역량검정)
+- 2024.12.11 정보처리기사
 
 ### 🚀 기술 스택
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
